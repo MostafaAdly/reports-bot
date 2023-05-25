@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Programming/Minecraft Programming/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/10/Downloads/Compressed/snakeyaml-1.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/cmudict04.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/cmulex.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/en_us.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/freetts.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="D:/Programming/Other Projects [TTS, etc]/tts/mbrola.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

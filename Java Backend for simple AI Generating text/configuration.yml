@@ -1,0 +1,75 @@
+default-answers:
+- "I do not have an answer to this question yet."
+format: "%user%: %message%"
+idk:
+- "I don't remember."
+- "I do not remember."
+- "I do not have an idea right know."
+QnAs:
+  greetings:
+    questions:
+    - "hello"
+    - "hi"
+    - "hola"
+    - "hey"
+    answers:
+    - "hi."
+    - "hey"
+    - "hello"
+    - "hello, how's your day"
+  q1:
+    questions:
+    - "how are you"
+    - "how're you"
+    answers:
+    - "i'm fine thank you."
+    - "better than ever"
+  q2:
+    questions:
+    - "what's your %variable%"
+    - "what is your %variable%"
+    - "Tell me about your %variable%"
+    answers:
+    - "I have '%variable%' saved as '%data%' in my memory"
+    - "My '%variable%' is '%data%'"
+  q3:
+    questions:
+    - "what's my %variable%"
+    - "what is my %variable%"
+    - "Tell me about my %variable%"
+    answers:
+    - "I have Your '%variable%' saved as '%data%' in my memory"
+    - "Your '%variable%' is '%data%'"
+  q4:
+    questions:
+    - "how was your day"
+    - "how is your day"
+    - "how's your day"
+    answers:
+    - "it was very croudy, processing all the data getting from my lovely user."
+    - "it was great because i met you."
+    - "it turned on to a great day since i've met you :)"
+    - "it is a great day, hope you're having a great one aswell."
+  q5:
+    questions:
+    - "what's my todo"
+    - "what's my to-do"
+    - "what's my todo-list"
+    - "what's my todolist"
+    - "what's my to do list"
+    - "what is my todo"
+    - "what is my todo list"
+    - "todo"
+    answers:
+    - "Your ideas for me is to do: \n1- MySQL Data Saving\n2- Speech Encounter API\n3- Auto Report Search Command\n4- i don't have any :("
+  q6:
+    questions:
+    - "thanks for that"
+    - "thanks"
+    - "thank you"
+    - "thanks you"
+    - "thx"
+    - "thnx"
+    - "ty"
+    answers:
+    - "You're welcome."
